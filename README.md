@@ -33,7 +33,6 @@ A fully shipped streaming lakehouse for multi-source cryptocurrency market data.
 - Validated locally with Docker, Kafka, Spark and Delta before cloud compute
 
 **Repository:** [Project Alpine](https://github.com/Matoxki/Project-Alpine-Real-Time-Crypto-Market-Intelligence-Platform)  
-**Portfolio:** [okangmichael.com](https://okangmichael.com)
 
 ---
 
@@ -51,7 +50,6 @@ A scheduled cloud data platform combining Vienna public transport and weather da
 - Replaced a weather source while preserving downstream data contracts
 
 **Repository:** [Vienna Transit Pipeline](https://github.com/Matoxki/vienna-transit-pipeline)  
-**Portfolio:** [okangmichael.com](https://okangmichael.com)
 
 ---
 
@@ -69,7 +67,6 @@ A streaming analytics pipeline that reconstructs user sessions from clickstream 
 - Runs hourly dbt transformations and data-quality checks with Airflow
 
 **Repository:** [Real-Time E-Commerce Streaming Pipeline](https://github.com/Matoxki/Real-Time-ECommerce-Streaming-Pipeline)  
-**Portfolio:** [okangmichael.com](https://okangmichael.com)
 
 ---
 
