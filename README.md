@@ -78,7 +78,7 @@ A streaming analytics pipeline that reconstructs user sessions from clickstream 
 | **Streaming & Processing** | Apache Kafka, Apache Spark, PySpark |
 | **Orchestration & Transformation** | Apache Airflow, dbt |
 | **Platforms** | Databricks, Delta Lake, Snowflake, BigQuery, PostgreSQL |
-| **Engineering Practices** | Data Quality, Dimensional Modelling, CDC, Backfills, CI/CD, Docker, Git |
+| **Engineering Practices** | Data Quality, Dimensional Modelling, Backfills, CI/CD, Docker, Git |
 
 ---
 
