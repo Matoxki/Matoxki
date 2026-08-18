@@ -70,17 +70,6 @@ A streaming analytics pipeline that reconstructs user sessions from clickstream 
 
 ---
 
-## Current Work
-
-### 🌊 Project Danube
-**Governed CDC Data Platform**
-
-`PostgreSQL` → `Debezium` → `Kafka` → `Delta Lake` → `dbt`
-
-Currently developing a governed CDC architecture focused on replayability, schema evolution, deterministic current-state reconstruction, SCD history, reconciliation and data quality.
-
----
-
 ## Engineering Toolkit
 
 | Area | Technologies |
